@@ -1,3 +1,5 @@
-# Vuetify 2 class utilities list
+# Vuetify
 
-Vuetify 2 class utilities list
+Search Vuetify utility classes in raycast
+
+![Search justify](metadata/vuetify-01.png)
